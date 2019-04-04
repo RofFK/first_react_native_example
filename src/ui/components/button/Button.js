@@ -1,4 +1,4 @@
-// /import React, {
+import React, {
     Component
 } from 'react'
 import {
@@ -6,20 +6,7 @@ import {
     View
 } from 'react-native'
 
-/**
- 
-    const calc = () => {
 
-    }
-
-    function calc () {
-
-    }
-    
-    const a = calc
-
- * 
- */
 
 class Button extends Component {
 
